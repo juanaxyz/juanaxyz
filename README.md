@@ -10,16 +10,19 @@
 - 🎓 I'm a student at **Udayana University**, Faculty of Engineering, majoring in **Information Technology**.
 - 💡 Passionate about **website development**, currently learning **React JS**.
 - 🔍 Interested in **cybersecurity** and exploring **UI/UX design**.
-- 🎯 Goal: To become a **Great Developer** and master **Software Engineer**.
+- 🎯 Goal: To become a **Great Developer** and master **Software Engineering**.
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: C, C++, Python, JavaScript
-- **Frontend**: React.js (basic), Tailwind CSS, Bootstrap
-- **Backend**: PHP, MySQL
-- **Tools & OS**: Cisco Packet Tracer, Windows, Linux
-- **Other Skills**: Network configuration, OS installation
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -29,13 +32,20 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=juanaxyz&theme=tokyonight" />
 </p>
 
-
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn**: [@juanasatya](https://www.linkedin.com/in/i-wayan-juana-satya-adinata-26117130b/)
-- **GitHub**: [@juanasatya](https://github.com/juanaxyz)
-- **Instagram**: [@juanasatyaa](https://instagram.com/juanasatyaa)
+<p align="center">
+  <a href="https://github.com/juanaxyz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/i-wayan-juana-satya-adinata-26117130b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/juanasatyaa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
