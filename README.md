@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Wayan Juana Satya Adinata</h1>
 
 <p align="center">
-  <em>👨‍💻 IT Student | 🚀 Aspiring Mobile Developer | 🔒 Cybersecurity Enthusiast</em>
+  <em>👨‍💻 IT Student | 🚀 Aspiring Website Developer | 🔒 Cybersecurity Enthusiast</em>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn**: [](https://www.linkedin.com/in/i-wayan-juana-satya-adinata-26117130b/)
+- **LinkedIn**: [@juanasatya](https://www.linkedin.com/in/i-wayan-juana-satya-adinata-26117130b/)
 - **GitHub**: [@juanasatya](https://github.com/juanaxyz)
 - **Instagram**: [@juanasatyaa](https://instagram.com/juanasatyaa)
 
