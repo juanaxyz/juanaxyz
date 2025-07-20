@@ -8,9 +8,9 @@
 
 ### 🌱 About Me
 - 🎓 I'm a student at **Udayana University**, Faculty of Engineering, majoring in **Information Technology**.
-- 💡 Passionate about **website development**, currently learning **React JS**.
-- 🔍 Interested in **cybersecurity** and exploring **UI/UX design**.
-- 🎯 Goal: To become a **Great Developer** and master **Software Engineering**.
+- 💡 Passionate about **Cyber Security, IOT**.
+- 🔍 Interested in **cybersecurity** and exploring **IOT**.
+- 🎯 Goal: To become a **Great Engineer**.
 
 ---
 
